@@ -1,6 +1,6 @@
 # Galactic Particle Orbit Visualizer
 
-This project generates videos of particle orbits in various galactic potential models. 
+Generates videos of particle orbits in various galactic potential models. 
 
 ![Video GIF Placeholder](figures/NFW_k/video_20.gif)
 
