@@ -1,0 +1,13 @@
+figures/
+code/create_collage.ipynb
+code/utils.py
+code/p_jeff.ipynb
+code/p_kepler.ipynb
+code/p_log_good.ipynb
+code/p_miyamoto_good.ipynb
+code/p_murali_good.ipynb
+code/p_MW_good.ipynb
+code/p_NFW_good.ipynb
+code/p_satoh_good.ipynb
+code/p_stone_good.ipynb
+code/collage_four.ipynb
