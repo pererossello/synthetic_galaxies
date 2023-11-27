@@ -1,8 +1,7 @@
 # Galactic Particle Orbit Visualizer
 
-This project generates videos of particle orbits in various galactic potential models. It leverages the `gala` Python package to integrate the orbits and create dynamic visualizations.
+This project generates videos of particle orbits in various galactic potential models. 
 
-## Demo Video
 ![Video GIF Placeholder](figures/NFW_k/video_20.gif)
 
 ## Structure
