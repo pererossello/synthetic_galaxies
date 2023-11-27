@@ -3,7 +3,7 @@
 This project generates videos of particle orbits in various galactic potential models. It leverages the `gala` Python package to integrate the orbits and create dynamic visualizations.
 
 ## Demo Video
-![Video GIF Placeholder](path/to/video.gif)
+![Video GIF Placeholder](figures/NFW_k/video_20.gif)
 
 ## Structure
 - `code/gutils.py`: 
@@ -25,6 +25,3 @@ This project requires the following Python packages:
 
 ## License
 This project is licensed under the [MIT License](LICENSE.md).
-
-## Citation
-If you use this software in your research, please cite it as follows:
