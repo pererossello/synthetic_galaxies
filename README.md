@@ -2,8 +2,11 @@
 
 Generates videos of particle orbits in various galactic potential models. 
 
-![Video GIF Placeholder](figures/NFW_k/video_20.gif)
-![Alt text](figures/NFW_k/video_20.gif "NFW")
+<!-- ![Video GIF Placeholder](figures/NFW_k/video_20.gif)
+![Alt text](figures/NFW_k/video_20.gif "NFW") -->
+
+![Alt text](figures/NFW_k/pngs/render_0129.png)
+
 
 ## Structure
 - `code/gutils.py`: 
